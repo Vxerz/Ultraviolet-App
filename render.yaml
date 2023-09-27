@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: interstellar
+    name: Ultraviolet-App
     env: docker
     plan: free
